@@ -88,7 +88,7 @@
                                 <span class="list">Daily Places</span>
                                 </div>
                             </div>
-                            <p>Lorem ipsum dolor sit amet dire consectetur adipiscing elit.</p>
+                            <p>{{ $city->description }}</p>
                             <div class="main-button">
                                 <a href="{{ route('traveling.reservation', $city->id) }}">Make a Reservation</a>
                             </div>

@@ -59,7 +59,7 @@
 
                                         <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item text-black" href="{{ route('users.bookings') }}">
-                                                My Bookings 
+                                                My Bookings
                                             </a>
 
                                             <a class="dropdown-item text-black" href="{{ route('logout') }}"
@@ -95,8 +95,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                <p>Copyright © 2036 <a href="#">WoOx Travel</a> Company. All rights reserved.
-                <br>Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a> Distribution: <a href="https://themewagon.com target="_blank" >ThemeWagon</a></p>
+                <p>Copyright © 2024 <a href="#">WoOx Travel</a> Company. All rights reserved.
+                <br>Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a> Distribution: <a href="https://themewagon.com target="_blank" >Mohamed.S & Mazen & Khalifa</a></p>
                 </div>
             </div>
         </div>

@@ -17,6 +17,7 @@ class City extends Model
         "name",
         "image",
         "price",
+        "description",
         "num_days",
         "country_id",
 

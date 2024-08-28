@@ -11,7 +11,7 @@
                     <h4>EXPLORE OUR COUNTRY</h4>
                     <div class="line-dec"></div>
                     <h2>Welcome To {{ $country->name }}</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uttersi labore et dolore magna aliqua is ipsum suspendisse ultrices gravida</p>
+                    <p>{{ $country->description }}</p>
                     <div class="main-button">
                     </div>
                 </div>
