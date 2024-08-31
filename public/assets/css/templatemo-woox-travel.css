@@ -1224,6 +1224,7 @@ footer {
     background-color: #22b3c1;
     text-align: center;
     padding: 25px 0px;
+    margin-top: 108px;
 }
 
 footer p {
@@ -1797,7 +1798,7 @@ body #user-button:focus-within .u-icons {
 
 @media (prefers-color-scheme: dark) {
     body:not(.light) {
-        background: #232223;
+        background: #f7f7f7;
         /* color: white; */
     }
 }
