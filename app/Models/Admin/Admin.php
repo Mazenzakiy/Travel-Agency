@@ -43,4 +43,6 @@ class Admin extends Authenticatable
     //         'password' => 'hashed',
     //     ];
     // }
+
+    // mazen adel 
 }
